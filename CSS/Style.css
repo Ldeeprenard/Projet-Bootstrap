@@ -1,5 +1,5 @@
 
-body{background-image: url('../Images/plantes/fond.jpg');}
+div.interieur{background-image: url('../Images/autre/fond.jpg');}
 
 div { margin: 10px ; padding: 10px; }
 div.divFond { margin: 50px ;}
