@@ -1,3 +1,15 @@
+
+body{background-image: url('../Images/plantes/fond.jpg');}
+
+div { margin: 10px ; padding: 10px; }
+div.divFond { margin: 50px ;}
+
+h3 {margin-top: 10px;}
+
+div.colPlant {text-align: center;}
+
+
+
 #img_container {
     position:relative;
     display:inline-block;
